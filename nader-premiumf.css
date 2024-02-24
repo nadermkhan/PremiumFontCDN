@@ -8,8 +8,15 @@
 }
 
 @font-face {
-  font-family: "NaderH1";
-  src: url("src/NaderH1.ttf");
+  font-family: "NaderH";
+  src: url("src/NaderH.otf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "NaderH2";
+  src: url("src/NaderH2.otf");
   font-weight: normal;
   font-style: normal;
 }
