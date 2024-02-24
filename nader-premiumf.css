@@ -6,3 +6,10 @@
     font-weight: normal;
     font-style: normal;
 }
+
+@font-face {
+  font-family: "NaderH1";
+  src: url("src/NaderH1.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
