@@ -2,7 +2,7 @@
 
 @font-face {
     font-family:'NaderHandwriting';
-    src: url('NaderH.ttf');
+    src: url("src/NaderH.ttf");
     font-weight: normal;
     font-style: normal;
 }
